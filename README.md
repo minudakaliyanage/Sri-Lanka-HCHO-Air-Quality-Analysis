@@ -69,10 +69,9 @@ A **SARIMAX(2,0,2)(1,1,1,12)** model forecasts Colombo HCHO. It uses precipitati
 
 | Notebook | Description |
 |---|---|
-| `DECWNEW4.ipynb` | **Final version:** cleaning, spatio-temporal analysis, weather & demographic factors, SARIMAX forecasting |
-| `DECWNEW2.ipynb` | Earlier full iteration of the analysis |
-| `DECW1.ipynb`, `DECW2.ipynb` | Initial exploration and cleaning experiments |
-| `FlightUpdated.ipynb`, `Regression1.ipynb` | Separate flight-booking fare analysis experiments (see the RND repo) |
+| `notebooks/hcho_analysis_final.ipynb` | ⭐ **Final version:** cleaning, spatio-temporal analysis, weather & demographic factors, SARIMAX forecasting |
+| `archive/DECWNEW2.ipynb` | Earlier full iteration of the analysis |
+| `archive/DECW1.ipynb`, `archive/DECW2.ipynb` | Initial exploration and cleaning experiments |
 
 ## 🚀 Running
 
